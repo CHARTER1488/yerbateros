@@ -1,0 +1,22 @@
+.fondo{
+     background-color: rgb(129, 230, 135);
+    
+}
+.titulo{
+    text-align: center;
+    font-family: fantasy;
+}
+.precio{
+    font-weight: bold;
+}
+.card{
+    margin-right: 10px;
+}
+.imagen{
+    margin-top: 10px;
+}
+.contacto{
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
